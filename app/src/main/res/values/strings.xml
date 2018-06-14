@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GeoLocation</string>
+    <string name="blank">%d</string>
+    <string name="method1_longitude">Method1 Longitude</string>
+</resources>
